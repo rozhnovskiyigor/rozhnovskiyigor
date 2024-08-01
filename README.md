@@ -1,6 +1,6 @@
 <h1 align=center>Links 👨‍💻</h1>
 
-<ul>
+<ul align=center>
   <li>
     <p><strong>📚 - GitBook - </strong><a href="https://rigor.gitbook.io/rigor/">__click__</a></p>
   </li>
