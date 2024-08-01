@@ -18,3 +18,5 @@
   </li>
 </ul>
 
+![RiGoR-BG](https://github.com/user-attachments/assets/b98762e9-aab0-4589-9746-9292ef6cbcbb)
+
