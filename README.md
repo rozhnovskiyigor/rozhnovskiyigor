@@ -27,3 +27,11 @@
 <img src="https://github.com/user-attachments/assets/916b4e53-f571-4488-a770-e5fd294a8a20" width=150>
 <img src="https://github.com/user-attachments/assets/f3d3e47f-b5b7-4d5c-8cbe-d451f126d943" width=150>
 
+|Project|Address|
+|:------|:------|
+|Warden|wardenvaloper14es4knehz5d28vzkuyqdeemlhew0748g9grt4s|
+|AirChains|airvaloper1zuj6wzsp3a0v79astkaxkgjr9fmhqhr6xpzf8n|
+|Artela|artvaloper1q9js3n5gaqk6chyxvdmf0xdmxz6swyrf8sp9es|
+|Lava|lava@valoper1cwldcfxr6wytkuauw6s8q43qfuwkg9z83mxk5r|
+|0G LABS|0gvaloper1ltrnjx9wwqmr3ravzwkv6633q8z7j2aurwrlpd|
+|Cosmos|cosmosvaloper1qphf0ferqcch0jca9hlqfm3x0eds3dpkcvpafp|
