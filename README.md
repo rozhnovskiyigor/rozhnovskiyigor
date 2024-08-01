@@ -2,7 +2,13 @@
 
 <ul>
   <li>
-    <p><strong>Twitter</strong> - <a href="https://x.com/TheBlackzim">--click--</a></p>
+    <p><strong>🌚Twitter</strong> - <a href="https://x.com/TheBlackzim">__click__</a></p>
+  </li>
+  <li>
+    <p><strong>🌞Keybase</strong> - <a href="https://keybase.io/r_igor">__click__</a></p>
+  </li>
+  <li>
+    <p><strong>🌑Teletype</strong> - <a href="https://teletype.in/@rigor">__click__</a></p>
   </li>
 </ul>
 
