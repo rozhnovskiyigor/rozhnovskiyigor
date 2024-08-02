@@ -38,4 +38,13 @@
 
 <h1 align=center>My Guides 📦</h1>
 
+## My Guides From GitHub
+- [0G-LABS-STORAGE-NODE-GUIDE](https://github.com/rozhnovskiyigor/0G-LABS-STORAGE-NODE-GUIDE)
+- [0G-VALIDATOR-NODE_GUIDE](https://github.com/rozhnovskiyigor/0G-VALIDATOR-NODE_GUIDE)
+
+## My Guides From GitBook
+- [0G-LABS-DA-NODE-GUIDE](https://rigor.gitbook.io/rigor/my-gitbook-guides/0g-labs-da-node-guide)
+
+## My Guides From Teletype
+- [How to install Warden Protocol Node](https://teletype.in/@rigor/How_to_install_Warden_Protocol_Node)
 
