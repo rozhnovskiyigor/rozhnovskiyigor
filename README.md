@@ -26,6 +26,8 @@
 <img src="https://github.com/user-attachments/assets/b890e229-cb81-4430-8abf-3789818f893e" width=130>
 <img src="https://github.com/user-attachments/assets/916b4e53-f571-4488-a770-e5fd294a8a20" width=130>
 <img src="https://github.com/user-attachments/assets/f3d3e47f-b5b7-4d5c-8cbe-d451f126d943" width=130>
+<img src="https://github.com/user-attachments/assets/5bd0c9a7-28e8-41a3-94d9-254bb12b0c6a" width=130>
+
 
 |Project|Address|
 |:------|:------|
@@ -47,4 +49,5 @@
 
 ## My Guides From Teletype
 - [How to install Warden Protocol Node](https://teletype.in/@rigor/How_to_install_Warden_Protocol_Node)
+- [Avail Node API Guide](https://teletype.in/@rigor/8L_cRAbNba6)
 
